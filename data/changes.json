@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2026-10-19",
+    "tool": null,
+    "tool_name": "LímitesIA",
+    "type": "base",
+    "kind": "info",
+    "reviewed": true,
+    "title": "Arranca el registro: primera foto de 11 herramientas y 43 planes",
+    "detail": "Guardamos una copia del texto de cada página oficial de precios. Desde hoy, cualquier cambio queda registrado aquí.",
+    "url": null
+  },
+  {
+    "date": "2026-10-16",
+    "tool": "windsurf",
+    "tool_name": "Windsurf (Devin Desktop)",
+    "type": "documentado",
+    "kind": "promo",
+    "reviewed": true,
+    "title": "Terminó el uso gratis de SWE-2 en Devin Desktop y CLI",
+    "detail": "La página oficial indicaba 'Free use of SWE-2 Free in Devin Desktop and CLI through October 16, 2026'.",
+    "url": "https://devin.ai/pricing"
+  },
+  {
+    "date": "2026-10-14",
+    "tool": "codex",
+    "tool_name": "OpenAI Codex",
+    "type": "documentado",
+    "kind": "modelos",
+    "reviewed": true,
+    "title": "GPT-5.5 se retiró de Codex al iniciar sesión con ChatGPT",
+    "detail": "'GPT-5.5 retires from Codex with ChatGPT sign-in on October 14, 2026, at noon PDT (19:00 UTC).' No afecta a la API ni a sesiones con API key.",
+    "url": "https://developers.openai.com/codex/pricing/"
+  },
+  {
+    "date": "2026-06-18",
+    "tool": "gemini-code-assist",
+    "tool_name": "Gemini Code Assist / CLI",
+    "type": "documentado",
+    "kind": "plan",
+    "reviewed": true,
+    "title": "El nivel gratis de Gemini CLI / Code Assist para individuos pasó a Antigravity",
+    "detail": "'Gemini CLI and Gemini Code Assist IDE extensions were replaced by Antigravity CLI and Antigravity on June 18th 2026.'",
+    "url": "https://codeassist.google/"
+  },
+  {
+    "date": "2026-06-02",
+    "tool": "windsurf",
+    "tool_name": "Windsurf (Devin Desktop)",
+    "type": "documentado",
+    "kind": "marca",
+    "reviewed": true,
+    "title": "Windsurf pasó a llamarse Devin Desktop (sin cambio de precio)",
+    "detail": "'On June 2, 2026, Windsurf is becoming Devin Desktop… Pricing is unchanged.'",
+    "url": "https://docs.devin.ai/desktop/devin-desktop-faq"
+  },
+  {
+    "date": "2026-06-01",
+    "tool": "github-copilot",
+    "tool_name": "GitHub Copilot",
+    "type": "documentado",
+    "kind": "límites",
+    "reviewed": true,
+    "title": "El code review de Copilot empezó a consumir minutos de GitHub Actions",
+    "detail": "'Beginning June 1, 2026, code review workflows also consume GitHub Actions minutes.'",
+    "url": "https://github.com/features/copilot/plans"
+  },
+  {
+    "date": "2026-03-19",
+    "tool": "windsurf",
+    "tool_name": "Windsurf (Devin Desktop)",
+    "type": "documentado",
+    "kind": "límites",
+    "reviewed": true,
+    "title": "Windsurf cambió créditos por cuotas diarias/semanales y lanzó Max (US$200)",
+    "detail": "'The new plans replace the current credit-based system with industry-standard quotas… The plans will go into effect on Thursday, March 19th, 2026.'",
+    "url": "https://devin.ai/blog/windsurf-pricing-plans"
+  }
+]
