@@ -1,14 +1,14 @@
 {
   "base": "USD",
   "rates": {
-    "MXN": 18.457069,
-    "COP": 3174.489272,
-    "ARS": 1514.5655,
-    "CLP": 981.666438,
-    "PEN": 3.436238,
-    "EUR": 0.890861
+    "MXN": 18.446513,
+    "COP": 3174.36839,
+    "ARS": 1523.3466,
+    "CLP": 982.712515,
+    "PEN": 3.442111,
+    "EUR": 0.891477
   },
   "source": "https://open.er-api.com (ExchangeRate-API, datos abiertos)",
-  "provider_updated": "Mon, 19 Oct 2026 00:02:32 +0000",
-  "fetched": "2026-10-19T10:16:41+00:00"
+  "provider_updated": "Tue, 20 Oct 2026 00:02:32 +0000",
+  "fetched": "2026-10-20T11:07:58+00:00"
 }
