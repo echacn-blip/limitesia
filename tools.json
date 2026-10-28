@@ -182,10 +182,10 @@
           "name": "Plus",
           "price_usd_month": 20,
           "billing_notes": "Mensual",
-          "limits_quote": "Local messages per 5h (estimates): GPT-6.1 Sol 15-160 · GPT-6 Astra 5-45 · GPT-6 Luna 350-3,000. Weekly limits may also apply.",
-          "limits_es": "Estimación por 5 h: 15–160 mensajes con GPT-6.1 Sol, 5–45 con GPT-6 Astra, 350–3.000 con GPT-6 Luna. Puede haber límite semanal.",
-          "models": "GPT-6.1 Sol, GPT-6 Luna",
-          "last_checked": "2026-10-19",
+          "limits_quote": "Local messages per 5h (estimates): GPT-6.1 Sol 15-160 · GPT-6.1 Terra 35-285 · GPT-6 Sol 15-150 · GPT-6 Astra 5-45 · GPT-6 Luna 350-3,000. Weekly limits may also apply.",
+          "limits_es": "Estimación por 5 h: 15–160 mensajes con GPT-6.1 Sol, 35–285 con GPT-6.1 Terra, 15–150 con GPT-6 Sol, 5–45 con GPT-6 Astra, 350–3.000 con GPT-6 Luna. Puede haber límite semanal.",
+          "models": "GPT-6.1 Sol, GPT-6.1 Terra, GPT-6 Luna",
+          "last_checked": "2026-10-28",
           "source_url": "https://developers.openai.com/codex/pricing/"
         },
         {
@@ -194,8 +194,8 @@
           "billing_notes": "Mensual",
           "limits_quote": "Pro plans currently have no five-hour limit",
           "limits_es": "Sin límite de 5 horas (por ahora). Más uso que Plus; cifra exacta sin verificar.",
-          "models": "GPT-6.1 Sol, GPT-6 Sol, GPT-6 Luna",
-          "last_checked": "2026-10-19",
+          "models": "GPT-6.1 Sol, GPT-6.1 Terra, GPT-6 Sol, GPT-6 Luna",
+          "last_checked": "2026-10-28",
           "source_url": "https://developers.openai.com/codex/pricing/"
         },
         {
@@ -204,8 +204,8 @@
           "billing_notes": "Mensual",
           "limits_quote": "Pro plans currently have no five-hour limit",
           "limits_es": "Sin límite de 5 horas (por ahora). Cifra exacta sin verificar.",
-          "models": "GPT-6.1 Sol, GPT-6 Sol, GPT-6 Luna",
-          "last_checked": "2026-10-19",
+          "models": "GPT-6.1 Sol, GPT-6.1 Terra, GPT-6 Sol, GPT-6 Luna",
+          "last_checked": "2026-10-28",
           "source_url": "https://developers.openai.com/codex/pricing/"
         },
         {
@@ -214,8 +214,8 @@
           "billing_notes": "Mensual",
           "limits_quote": "Ultrafast mode access on Pro $500",
           "limits_es": "Sin límite de 5 horas; incluye modo Ultrafast.",
-          "models": "GPT-6 Astra, GPT-6.1 Sol, Luna",
-          "last_checked": "2026-10-19",
+          "models": "GPT-6 Astra, GPT-6.1 Sol, GPT-6.1 Terra, Luna",
+          "last_checked": "2026-10-28",
           "source_url": "https://developers.openai.com/codex/pricing/"
         },
         {
@@ -224,8 +224,8 @@
           "billing_notes": "$25 por usuario/mes facturado mensual (2+ usuarios); precio anual menor, no visible",
           "limits_quote": "Local messages per 5h same estimates as Plus (Standard Business)",
           "limits_es": "Mismas estimaciones por 5 h que Plus.",
-          "models": "GPT-6.1 Sol, GPT-6 Luna",
-          "last_checked": "2026-10-19",
+          "models": "GPT-6.1 Sol, GPT-6.1 Terra, GPT-6 Luna",
+          "last_checked": "2026-10-28",
           "source_url": "https://developers.openai.com/codex/pricing/",
           "per_seat": true,
           "team": true
@@ -255,7 +255,7 @@
           "limits_quote": "Copilot Free users are limited to 2000 completions and 50 chat requests",
           "limits_es": "2.000 autocompletados y 50 solicitudes de chat al mes.",
           "models": "Lista amplia (Claude, GPT, Gemini, Grok, Kimi)",
-          "last_checked": "2026-10-19",
+          "last_checked": "2026-10-28",
           "source_url": "https://github.com/features/copilot/plans"
         },
         {
@@ -264,8 +264,8 @@
           "billing_notes": "Mensual",
           "limits_quote": "Total GitHub AI Credits: $15 per month ($10 base + $5 flex)",
           "limits_es": "US$15/mes en créditos (10 base + 5 flex). Autocompletado ilimitado.",
-          "models": "Claude, GPT, Gemini, Grok, Kimi, MAI",
-          "last_checked": "2026-10-19",
+          "models": "Claude, GPT (incl. GPT-6.1 Terra), Gemini, Grok, Kimi, MAI",
+          "last_checked": "2026-10-28",
           "source_url": "https://github.com/features/copilot/plans",
           "included_usd": 15
         },
@@ -275,8 +275,8 @@
           "billing_notes": "Mensual",
           "limits_quote": "Total GitHub AI Credits: $70 per month ($39 base + $31 flex)",
           "limits_es": "US$70/mes en créditos (39 base + 31 flex).",
-          "models": "Claude, GPT, Gemini, Grok, Kimi, MAI",
-          "last_checked": "2026-10-19",
+          "models": "Claude, GPT (incl. GPT-6.1 Terra), Gemini, Grok, Kimi, MAI",
+          "last_checked": "2026-10-28",
           "source_url": "https://github.com/features/copilot/plans",
           "included_usd": 70
         },
@@ -286,8 +286,8 @@
           "billing_notes": "Mensual",
           "limits_quote": "Total GitHub AI Credits: $200 per month · Base credits $100",
           "limits_es": "US$200/mes en créditos totales (US$100 base).",
-          "models": "Claude, GPT, Gemini, Grok, Kimi, MAI",
-          "last_checked": "2026-10-19",
+          "models": "Claude, GPT (incl. GPT-6.1 Terra), Gemini, Grok, Kimi, MAI",
+          "last_checked": "2026-10-28",
           "source_url": "https://github.com/features/copilot/plans",
           "included_usd": 200
         }
